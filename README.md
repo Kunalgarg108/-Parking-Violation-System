@@ -344,15 +344,13 @@ Normalized to 0–100 scale.
 ![Analytics Screenshot](docs/screenshots/analytics.png)
 *Risk distribution histogram, priority distribution, and SHAP feature importance*
 
-### Patrol Planner
-![Patrol Planner Screenshot](docs/screenshots/patrol-planner.png)
-*Patrol unit assignment interface*
-
 ### Repeat Offenders
 ![Repeat Offenders Screenshot](docs/screenshots/repeat-offenders.png)
 *Searchable repeat offender table*
 
-> **Note:** Replace placeholder images above with actual screenshots. Create a `docs/screenshots/` directory and add PNG files with the names shown.
+### Patrol Planner
+![Patrol Planner Screenshot](docs/screenshots/patrol-planner.png)
+*Patrol unit assignment interface*
 
 ## License
 
