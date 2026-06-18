@@ -1,0 +1,12 @@
+# IDE folders
+.vscode/
+.kiro/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+node_modules/
